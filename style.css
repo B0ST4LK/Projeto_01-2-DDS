@@ -7,33 +7,33 @@ header{background-color:#B1A887; color: brown; width:100%; padding:20px;}
 .sociais{display:flex;justify-content:flex-end;width:25%;padding-right:30px;}
 .banner1{display:flex;justify-content:center;}
 
-.estudante_titulo{
+.carro_titulo{
     padding: 50px;
     text-align: center;
     }
     
-    .estudante-nome{
+    .carro-nome{
     text-align: center;
     }
-    .estudante-imagem{
+    .carro-imagem{
     width: 120px;
     }
     
-    .estudante-icone{
+    .carro-icone{
     width: 38px;
     padding: 4px 8px;
     }
     
-    .estudante{
+    .carro{
     background-image: background-color(#FFF6E9);
     padding: 24px 0;
     }
     
-    .estudante.div{
+    .carro.div{
     text-align: center;
     padding: 24px 0;
     }
-    .estudantes_todos{
+    .carros_todos{
     display: flex;
     justify-content: space-around;
     }
