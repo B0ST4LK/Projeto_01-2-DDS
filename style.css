@@ -1,11 +1,28 @@
 *{margin: 0; padding: 0; box-sizing:border-box;} 
 body{font-family:"Poppins", sans-serif;}
-header{background-color:#B1A887; color: brown; width:100%; padding:20px;}
-.cabecalho-itens{max-width:1980px; margin: 0 auto; display:flex;align-items:center;}
-.cabecalho_imagem {width:10%;display:flex;justify-content:flex-start;align-items:center;}  
-.titulo_site{padding:50px;text-align:center;width:50%;font:30px;}
-.sociais{display:flex;justify-content:flex-end;width:25%;padding-right:30px;}
-.banner1{display:flex;justify-content:center;}
+header{
+    background-color:#B1A887; color: brown; width:100%; padding:20px;
+}
+
+.cabecalho-itens{
+    max-width:1980px; margin: 0 auto; display:flex;align-items:center;
+}
+
+.cabecalho_imagem {
+    width:10%;display:flex;justify-content:flex-start;align-items:center;
+}
+
+.titulo_site{
+    padding:50px;text-align:center;width:50%;font:30px;
+}
+
+.sociais{
+    display:flex;justify-content:flex-end;width:25%;padding-right:30px;
+}
+
+.banner1{
+    display:flex;justify-content:center;
+}
 
 .titulo_site{
     padding: 50px;
@@ -40,7 +57,7 @@ header{background-color:#B1A887; color: brown; width:100%; padding:20px;}
     
     .escola{
     background-image: linear-gradient(#40A2E3,#7FC2EF);
-    color: white;
+    color: rgb(192, 59, 59);
     display: flex;
     justify-content:center;
     padding: 24px 0;
