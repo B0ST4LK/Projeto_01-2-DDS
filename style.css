@@ -1,5 +1,11 @@
-*{margin: 0; padding: 0; box-sizing:border-box;} 
-body{font-family:"Poppins", sans-serif;}
+*{
+    margin: 0; padding: 0; box-sizing:border-box;
+}
+
+body{
+    font-family:"Poppins", sans-serif;
+}
+
 header{
     background-color:#B1A887; color: brown; width:100%; padding:20px;
 }
